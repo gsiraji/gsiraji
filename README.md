@@ -15,7 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on [modeling & simulation of actin comet tails](https://meetings.aps.org/Meeting/MAR23/Session/TT01.7)
+🔭 I’m currently working on 3 {secret} projects
+
+👯 I’m looking to collaborate on Vision, NLP, and DSP projects
+
+🌱 I’m currently relearning C++
+
+🤔 I’m always most likely looking for help with stat methods for big data & some random C++ issue
+
+My last OOP PhD project is on [modeling & simulation of actin comet tails](https://meetings.aps.org/Meeting/MAR23/Session/TT01.7)
 
 📫 How to reach me: gessiraji@brandeis.edu
 
