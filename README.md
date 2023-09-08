@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 👯 I’m looking to collaborate on Vision, NLP, and DSP projects
 
-🌱 I’m currently relearning C++
+🌱 I’m currently learning R
 
-🤔 I’m always most likely looking for help with stat methods for big data & some random C++ issue
+🤔 I’m most likely looking for help with stat methods for big data 
 
 My last OOP PhD project is on [modeling & simulation of actin comet tails](https://meetings.aps.org/Meeting/MAR23/Session/TT01.7)
 
