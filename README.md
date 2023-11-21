@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I’m currently working on 3 {secret} projects
+🔭 I’m currently working on multiple Proteomics/Data Science projects
 
-👯 I’m looking to collaborate on Vision, NLP, and DSP projects
+👯 I’m looking to collaborate on "small" projects that involve data science and data visualization
 
-🌱 I’m currently learning R
+🌱 I’m currently learning php and (kind of) R
 
-🤔 I’m most likely looking for help with stat methods for big data 
+🤔 I’m most likely looking for help with stat/comp methods for big/bio data 
 
 My last OOP PhD project is on [modeling & simulation of actin comet tails](https://meetings.aps.org/Meeting/MAR23/Session/TT01.7)
 
